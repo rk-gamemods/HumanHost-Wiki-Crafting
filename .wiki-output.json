@@ -103,12 +103,14 @@
     "site/objects/9eee0cd355a8b74d55280497612cfbb0e7c103557a432786f31efffdc5aadd1b.json",
     "site/objects/a6be9fc445e9fa5625c4b0b7f1ffa947423bf60c34bc70fec337fa14124bd7a9.json",
     "site/objects/bf1ba7d53b93461765e21f3fbede3cb77b80c9e04f103754ff76fa59ae764723.json",
+    "site/objects/daef2d33e550240ee763f343a7d4dd2468f15c0d427828d774a53ce672f3565c.json",
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json",
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
     "site/releases/1e7dec1c476ee75a57e39e1bdaba063ac8adbe8a7185f59e015e07ea26be1b4d.json",
     "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json",
+    "site/releases/42edecbf810d13ee478c1883f309cd6eed5781c31f07139bad0f47089572cb1f.json",
     "site/releases/4ad92f64ed9390922318e102097e776e7a6a8d0880213a3ee6c46936be0b2bb5.json",
     "site/releases/4c0e7085ed767ed79ddca5f8fa7727a0c87e3040e298393a6b163a7bf47ff93a.json",
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json",
@@ -135,51 +137,51 @@
   "files": {
     "README.md": {
       "bytes": 515,
-      "sha256": "1eb7a53bc54a36544cda2c1f9dbf35dfa32f24d94420714ae9d0850b10538f0d"
+      "sha256": "0583e112cbe460e04d7a7efac576b891044ed2807a47dce2040f5bdfa7606e34"
     },
     "reference/index.md": {
       "bytes": 579,
-      "sha256": "d807a9d299edd1268eda9fa97877eec6e6ec73582bda099a2e2a425cc896e906"
+      "sha256": "674bdf9219de2e5dabee594f90d20ee8b5ae1af718464d6f11b39d2f3aac300f"
     },
     "reference/processing-rule/0001.md": {
       "bytes": 11370,
-      "sha256": "1c898331a0848238736631e071c11e69d84bc6db33390263e106e078009034b5"
+      "sha256": "c3465a0a95045b1643254bd6fc17ba7dee198a10a563cf0577b1d7101c475124"
     },
     "reference/recipe/0001.md": {
       "bytes": 40530,
-      "sha256": "1c5d3d10bf56efb55d51f8652e2a5696588628627653d27d80d98ff8f85a366b"
+      "sha256": "1663d638f1970c9b00207f504d6dfff6cb456f7f1d887cb9144a59240b71540f"
     },
     "reference/recipe/0002.md": {
       "bytes": 39602,
-      "sha256": "847fa9163a687340534197dc8785722acba4e8a8ff8e4888b9d2c8a257fab2ed"
+      "sha256": "3af9f6aebe04c88b07417520b3893d3d622c8632b8f642b9625840dcd817f771"
     },
     "reference/recipe/0003.md": {
       "bytes": 39764,
-      "sha256": "5d3f561dada0afe174de6fb7116bdb15d22842854a55c2601bdde81fc0640695"
+      "sha256": "e65ee2bf664524b06617b4d80a1fe7ef4c7bcdc625b3a5cde53175c7ad08d59b"
     },
     "reference/recipe/0004.md": {
       "bytes": 40121,
-      "sha256": "cbadc2d0199b5f825f06b4613d948611a9b61cf7a9fee03a9d029906da9c5fa7"
+      "sha256": "e5d72a6a52393dd49281fafbea3953a8a93805b54b37e871168a29185a1063cf"
     },
     "reference/recipe/0005.md": {
       "bytes": 39431,
-      "sha256": "942263a6f40e36c50098b7fbc399494e75ca3f71efa75960f1ff040f8e138455"
+      "sha256": "1c17e1c98910aabe4630bec4ddc1f968969903fe5d2cbd5570fac254aa7c2dcd"
     },
     "reference/recipe/0006.md": {
       "bytes": 39780,
-      "sha256": "3fb395f20e3840aa780599442d4245deb1f621074936c8fed1e57d431e125f5f"
+      "sha256": "b95fb12ae919343e6d91008c398d27eb11e7a6847b7ca8055089ca47edd0f3d0"
     },
     "reference/recipe/0007.md": {
       "bytes": 40445,
-      "sha256": "98db80b6cca0605d8de0cf48948bc85297c0d507e07f10ff1d08f302275fdf32"
+      "sha256": "0dd5b9df3d566d3222122f028d44b2df62611d20a2694e5134e7d2405a4e51e6"
     },
     "reference/recipe/0008.md": {
       "bytes": 38235,
-      "sha256": "a173f73781963c4e9aa855a9d52d859686e395e35db8536828ae177780f1cc5b"
+      "sha256": "fdea378b9691f7c144b07c5d3f823ae938073bb2166a260691caf0f525602ab5"
     },
     "reference/workbench/0001.md": {
       "bytes": 4541,
-      "sha256": "e070599ba872d654c5c8151bfcab8cb52fe3149635aa5dc1f12499140a2ab13a"
+      "sha256": "9b842c6bba34d5d9fbb32699c8b6aa9e30d839b154bc81f7e521a0835a28b1da"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -617,6 +619,10 @@
       "bytes": 16498,
       "sha256": "bf1ba7d53b93461765e21f3fbede3cb77b80c9e04f103754ff76fa59ae764723"
     },
+    "site/objects/daef2d33e550240ee763f343a7d4dd2468f15c0d427828d774a53ce672f3565c.json": {
+      "bytes": 17425,
+      "sha256": "daef2d33e550240ee763f343a7d4dd2468f15c0d427828d774a53ce672f3565c"
+    },
     "site/reader.css": {
       "bytes": 59,
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
@@ -627,7 +633,7 @@
     },
     "site/reader.json": {
       "bytes": 6793,
-      "sha256": "278e5e19851736edca04be9b08782dbd3c98cfcec52eeb8fa4152112055954c6"
+      "sha256": "f55bb693780c2eb9fbbfc51adab2e6dbea64a0c9aae74a3f9d48717f8e9644c6"
     },
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json": {
       "bytes": 6793,
@@ -652,6 +658,10 @@
     "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json": {
       "bytes": 6024,
       "sha256": "38396aab60cbe11c46fe2988ddc99674f8e6e5f8d653b6afcb08101eae2a32b2"
+    },
+    "site/releases/42edecbf810d13ee478c1883f309cd6eed5781c31f07139bad0f47089572cb1f.json": {
+      "bytes": 6793,
+      "sha256": "f55bb693780c2eb9fbbfc51adab2e6dbea64a0c9aae74a3f9d48717f8e9644c6"
     },
     "site/releases/4ad92f64ed9390922318e102097e776e7a6a8d0880213a3ee6c46936be0b2bb5.json": {
       "bytes": 6793,
@@ -743,7 +753,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "4ad92f64ed9390922318e102097e776e7a6a8d0880213a3ee6c46936be0b2bb5",
+  "release_id": "42edecbf810d13ee478c1883f309cd6eed5781c31f07139bad0f47089572cb1f",
   "repository_id": "crafting-processing",
   "schema_version": 1
 }
