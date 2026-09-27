@@ -71,6 +71,7 @@
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
+    "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
@@ -82,51 +83,51 @@
   "files": {
     "README.md": {
       "bytes": 515,
-      "sha256": "d5262ac38251690f4375694f15ec470017d25339e2341a25b82247204380c45b"
+      "sha256": "300b20578fe9ab49624a864ee90d64bc8382ff182179d9f88c9092af6bee9c5e"
     },
     "reference/index.md": {
       "bytes": 579,
-      "sha256": "13b05398560c2323ca198f7b06c14b12798421aaad4fc40b70f763da551e4ff5"
+      "sha256": "c09389f358e00517588767c56a7614fa027b89bc66cb2d2abc966939f3c3d392"
     },
     "reference/processing-rule/0001.md": {
       "bytes": 10750,
-      "sha256": "cae6bb281c018cbb005d0483e6f1940551a690ea22e76955c9d1d9a8204d00ae"
+      "sha256": "6d5c5a5b52c331ec489a7b20c76879ad6194318f9c912d0b74165e22eee8f899"
     },
     "reference/recipe/0001.md": {
       "bytes": 40530,
-      "sha256": "fdab307f3872c3c15d0686bbc52114fe38aaf91fa32beb8e73cc31183723163d"
+      "sha256": "8907a325faf7e133714d5a8dfd24c12c32b813944f3c5796e1e0f4c8e47c1281"
     },
     "reference/recipe/0002.md": {
       "bytes": 39602,
-      "sha256": "8c4d12a87d1af7b615e7de4c9c162b436934107cbe7c7e84baaff80fbc9a93bc"
+      "sha256": "7771ab6e909ed324bc99b9c0198ab2d7693b9e53bb24aca69f61ded4b787d165"
     },
     "reference/recipe/0003.md": {
       "bytes": 39764,
-      "sha256": "4974fa5289542ed2b340ac60b4e678c7ab5e697b107fa75a13f4668aeb780edf"
+      "sha256": "2b6348198d3c6aaf7989ef8266d1ec0187d38d5416f829f0d61d6d375a697371"
     },
     "reference/recipe/0004.md": {
       "bytes": 40121,
-      "sha256": "0a4fd67a915be34b4b5f13c43b4fa87ab348efae2999068e7f0ecbab06d34cc7"
+      "sha256": "4a98fbf3d8b958dac60b91c97b682053c620c2b8c2a35a2ee61058a6c4c09eac"
     },
     "reference/recipe/0005.md": {
       "bytes": 39431,
-      "sha256": "f8de31f7b5e6b0fdcc7fb3bcf721514c383a7c41ae89bb7e14c3bad8d875a2b8"
+      "sha256": "99861844238b4fedb54b6c95a8f392f8e70bafbdcce56fe8450dc67bbc175fda"
     },
     "reference/recipe/0006.md": {
       "bytes": 39780,
-      "sha256": "0fc939c3a3a3d32e8359f8b66d4b9ee1bc487116ed990b3d9966725eb2065782"
+      "sha256": "3ddf5d4dd49a4926730fa5d6dce7c0effd2ddebd091cabd3237e111608a92d23"
     },
     "reference/recipe/0007.md": {
       "bytes": 40445,
-      "sha256": "bbb287d915f4b8e7cbee829cf207267ded73d616d608c4dc85a9cb31c7ce07aa"
+      "sha256": "aac3c70c76c554264cc45ca78bbf1ba4d54f41a30ce2800b49ac723ef8e1f1aa"
     },
     "reference/recipe/0008.md": {
       "bytes": 38235,
-      "sha256": "2104b9c5139491872d9f195c0c849846a85be326deb25d76a8170c7af2033413"
+      "sha256": "7d5106f0debd9cd99581d06270c0c3f5c4968d495e444d25ff83d9409f896376"
     },
     "reference/workbench/0001.md": {
       "bytes": 4541,
-      "sha256": "f9e1030e24acece3a551454e8f3b9c839fbc11d62af74b056b9fdba3658f9c27"
+      "sha256": "1eae9142733276314fc5153a683e250e8ec5f0d419731bd5ab248ede7d7a9432"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -434,7 +435,7 @@
     },
     "site/reader.json": {
       "bytes": 5069,
-      "sha256": "5c156ec995b35bccbe80b490eacfcc8943599bf7209ea1ce1ecb834d64b3b9a4"
+      "sha256": "a29e610951a498a2a4b760980a48de2565b222b3e60d619a2c369b0f470e65fd"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4996,
@@ -447,6 +448,10 @@
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json": {
       "bytes": 5044,
       "sha256": "b6203862656275c5c379313a339d475a8611f14aa632254c36182d91313b3c18"
+    },
+    "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
+      "bytes": 5069,
+      "sha256": "a29e610951a498a2a4b760980a48de2565b222b3e60d619a2c369b0f470e65fd"
     },
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json": {
       "bytes": 5069,
@@ -478,7 +483,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c",
+  "release_id": "84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb",
   "repository_id": "crafting-processing",
   "schema_version": 1
 }
