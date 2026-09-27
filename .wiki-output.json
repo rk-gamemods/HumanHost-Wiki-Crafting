@@ -153,6 +153,7 @@
     "site/releases/42edecbf810d13ee478c1883f309cd6eed5781c31f07139bad0f47089572cb1f.json",
     "site/releases/4ad92f64ed9390922318e102097e776e7a6a8d0880213a3ee6c46936be0b2bb5.json",
     "site/releases/4c0e7085ed767ed79ddca5f8fa7727a0c87e3040e298393a6b163a7bf47ff93a.json",
+    "site/releases/53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d.json",
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json",
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
     "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json",
@@ -174,66 +175,67 @@
     "site/runtime/cca169884bcd566b7cefd6445ed37d6135df77fb2d4a9c67dda80dc6cbd4e5b7/reader.js",
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
     "site/runtime/d17b806becf4097777eaead5e9157ed8dabfea349de92214df567abefc2c19b7/reader.js",
+    "site/runtime/d455da4e4f341a98b768f03c6766c913420cf7b139ad5ac7a1757a6a0663a708/reader.js",
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js",
     "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js",
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
   ],
   "files": {
     "README.md": {
-      "bytes": 515,
-      "sha256": "9520b86593350f8e8fbee45f8e0854e2340bc91f3fcee9eac61129c2f1f20e0e"
+      "bytes": 658,
+      "sha256": "9aab110c9a186f4911e6acebcb17c20ef4c3bc1f525519cdcf56f25b1b79ff3e"
     },
     "reference/index.md": {
       "bytes": 589,
-      "sha256": "58baa65517dca9842b2eb6e68afcdc389da4a30c700304137fa98f7223ea3e65"
+      "sha256": "c97047cf22faba1e3265287e62282686abaa9cb15b73aa336d67154114853f1f"
     },
     "reference/processing-rule/0001.md": {
       "bytes": 11370,
-      "sha256": "ebf7b5815c3fa5124eacfaebe516bd824c6fc98fdcb5505587b88671a543cc34"
+      "sha256": "8ae0cdcc5200be9cac52b376597defab21d0cecd3cbe97efaccbe70f3f37e71a"
     },
     "reference/recipe/0001.md": {
       "bytes": 40530,
-      "sha256": "dd6f8372d005d14a603ad8426aa2ee550f693b84e3ec599c10f40f6fcde35671"
+      "sha256": "868b206d00b36c94edf6492b5386e352aa58629f8b2b16c4edd354547b292758"
     },
     "reference/recipe/0002.md": {
       "bytes": 39602,
-      "sha256": "41b2691503ef788ba965480607e01c01c3aa522e731eaccf1b17f58e6f9c0de7"
+      "sha256": "4e0d1d51d4929b1830fd7154410d43af94afec033bdd3b6f8cb2ed888ea22304"
     },
     "reference/recipe/0003.md": {
       "bytes": 39764,
-      "sha256": "498bf55be3d6e31c8d08b6b66482fc45ab8bffd9704e857cb8267d57c4b0059d"
+      "sha256": "2d805953d899f2c0d3963de6c35d42c86c09cb4ab1ff2f4d3615cf83d87521b4"
     },
     "reference/recipe/0004.md": {
       "bytes": 40121,
-      "sha256": "02c4e0b9500901d3656ea6ae64ef499a912bbdab3aae28d8b1bb4ed4c7095c85"
+      "sha256": "7e5bfb5691477a3c8825590ad8b38b65eb8850280f2200a04735d5e7ab166f85"
     },
     "reference/recipe/0005.md": {
       "bytes": 39431,
-      "sha256": "0c78f9391c51fe414f6bc6e8f54c6bf10d18a30994e84bd3efbbfd0a94c4ba15"
+      "sha256": "835262c19c88be25768b31d1e5e00156f0b0bbd4f451d4629f3d1d121fbefe97"
     },
     "reference/recipe/0006.md": {
       "bytes": 39780,
-      "sha256": "1074ef40d0947c5f2159e08a7dbe9bf9ff744e59f5bfea5c399f43b16bc74b45"
+      "sha256": "d5477bc7c3e10177d4b57d368d5c5d431082499ab813f0527c13e685228f44c9"
     },
     "reference/recipe/0007.md": {
       "bytes": 40445,
-      "sha256": "133b72ed9563215dec706ad703fd7d0531dfe21893c7d3981fa0025224beaa4a"
+      "sha256": "bafd59d20d21eb11ee19312d5a0315029d395985bde0f49e6c9eb70c6f00c675"
     },
     "reference/recipe/0008.md": {
       "bytes": 38235,
-      "sha256": "46384082ab7921cbb4ca410c0a8235b0918a0287f447e9b678fca5200c1c62b6"
+      "sha256": "ba093cd9d68e54e185f5cf482a278a320399b4d7419a3c11e15898bd95647755"
     },
     "reference/workbench/0001.md": {
       "bytes": 4702,
-      "sha256": "9405c00ac548fe59509f07a41b82410a47bd5a40026c43eafc5c6c83bfca5f0e"
+      "sha256": "f69e0fe0555d86a91b407415419028c5eb0218be0ef152816700e32af37831ba"
     },
     "site/.nojekyll": {
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "site/404.html": {
-      "bytes": 1408,
-      "sha256": "a23296550d5e24db566151035c09db9b6c2b37dddfc717763f87f8c81596b9cc"
+      "bytes": 1511,
+      "sha256": "50c14ed7648163dec3ce892fc7d009054871b4d8ba28cfd1bc7b84ead678aa39"
     },
     "site/data/02ab6dd5e290859b933c47849307d5bbf2e3642f28485e6fcc3d830317e79285.json": {
       "bytes": 53599,
@@ -740,20 +742,20 @@
       "sha256": "f70f0e338381efa88aa60451ecdcf47126470a9ee78f8c3c06e832a62ea14b40"
     },
     "site/groups/processing-rule/index.html": {
-      "bytes": 1408,
-      "sha256": "a23296550d5e24db566151035c09db9b6c2b37dddfc717763f87f8c81596b9cc"
+      "bytes": 1511,
+      "sha256": "50c14ed7648163dec3ce892fc7d009054871b4d8ba28cfd1bc7b84ead678aa39"
     },
     "site/groups/recipe/index.html": {
-      "bytes": 1408,
-      "sha256": "a23296550d5e24db566151035c09db9b6c2b37dddfc717763f87f8c81596b9cc"
+      "bytes": 1511,
+      "sha256": "50c14ed7648163dec3ce892fc7d009054871b4d8ba28cfd1bc7b84ead678aa39"
     },
     "site/groups/workbench/index.html": {
-      "bytes": 1408,
-      "sha256": "a23296550d5e24db566151035c09db9b6c2b37dddfc717763f87f8c81596b9cc"
+      "bytes": 1511,
+      "sha256": "50c14ed7648163dec3ce892fc7d009054871b4d8ba28cfd1bc7b84ead678aa39"
     },
     "site/index.html": {
-      "bytes": 1408,
-      "sha256": "a23296550d5e24db566151035c09db9b6c2b37dddfc717763f87f8c81596b9cc"
+      "bytes": 1511,
+      "sha256": "50c14ed7648163dec3ce892fc7d009054871b4d8ba28cfd1bc7b84ead678aa39"
     },
     "site/objects/0e357d1cfcf5eda5f7ba28545a9d4c0cc7ceafd5c543d95240a73144d6653aa2.json": {
       "bytes": 16758,
@@ -836,8 +838,8 @@
       "sha256": "257fa077be724f14eb91dbe74106853b1281b9809a8307aa0ade74d6ba98b43a"
     },
     "site/reader.json": {
-      "bytes": 7283,
-      "sha256": "d7699bd14046f5ba855d1d00d599085d5f97264e0600076f37d7cd641ce062bc"
+      "bytes": 7340,
+      "sha256": "0e9ab2f28c05cbe04cab411ed0265c6c064f16376e3bb4b067439d50975bea44"
     },
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json": {
       "bytes": 6793,
@@ -874,6 +876,10 @@
     "site/releases/4c0e7085ed767ed79ddca5f8fa7727a0c87e3040e298393a6b163a7bf47ff93a.json": {
       "bytes": 6793,
       "sha256": "920d6f3eb5700775fd1df3020dad100e2b9e579e4ecf41673dc61e71ff2f1ead"
+    },
+    "site/releases/53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d.json": {
+      "bytes": 7340,
+      "sha256": "0e9ab2f28c05cbe04cab411ed0265c6c064f16376e3bb4b067439d50975bea44"
     },
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json": {
       "bytes": 6569,
@@ -959,6 +965,10 @@
       "bytes": 27544,
       "sha256": "d17b806becf4097777eaead5e9157ed8dabfea349de92214df567abefc2c19b7"
     },
+    "site/runtime/d455da4e4f341a98b768f03c6766c913420cf7b139ad5ac7a1757a6a0663a708/reader.js": {
+      "bytes": 27577,
+      "sha256": "d455da4e4f341a98b768f03c6766c913420cf7b139ad5ac7a1757a6a0663a708"
+    },
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js": {
       "bytes": 17501,
       "sha256": "d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1"
@@ -973,7 +983,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "aa1b9c91b75cd657497fbdfac6bc6432182f8a0020aba429cb1c5844b496ba32",
+  "release_id": "53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d",
   "repository_id": "crafting-processing",
   "schema_version": 1
 }
