@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-11-07T23:03:18+00:00",
+  "default_status": "missing",
+  "entries": [
+    {
+      "bytes": 873,
+      "count": 2,
+      "first": "build-26507141-c9f85a54326a/e-0721833e41b6acc8c14fb150ba1a9a01",
+      "last": "build-26507141-c9f85a54326a/e-777ed28b685f6738a8571f64f234eb93",
+      "path": "data/9f5bee92534a6e3e05d45e33ee3b8344f0902f5c987b4f1f37c8229a731b7c2c.json",
+      "sha256": "9f5bee92534a6e3e05d45e33ee3b8344f0902f5c987b4f1f37c8229a731b7c2c"
+    }
+  ],
+  "kinds": [
+    "recipe",
+    "workbench"
+  ],
+  "observation_id": "23df9a5b61b1cc16aca86c018bdf08a7d2709df067b0339d0150c55482763f96",
+  "schema_version": 1,
+  "topics": [
+    {
+      "checked_at": "2026-11-07T23:03:18+00:00",
+      "destination": "Human Host:Content/Game Content/Crafting Recipes",
+      "destination_revision": 271,
+      "reason": "literal-prose",
+      "revision": 271,
+      "status": "populated",
+      "title": "Human Host:Content/Game Content/Crafting Recipes",
+      "url": "https://wiki.nerdwerx.io/index.php?title=Human+Host%3AContent%2FGame+Content%2FCrafting+Recipes&oldid=271"
+    }
+  ]
+}
